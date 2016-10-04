@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/nicodinh/kraken-js-and-apollo-server#readme",
   "dependencies": {
+    "apollo-server": "^0.3.2",
     "express": "^4.14.0",
+    "graphql": "^0.7.1",
     "kraken-js": "^2.1.0"
   }
 }
